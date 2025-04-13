@@ -6,10 +6,10 @@
 
 ## 🎮 Featured Projects
 
-- 🚩 **[Minesweeper Clone](https://pshacks.github.io/Minesweeper/)**  
+- 🚩 **[Minesweeper Clone](https://pshacks.github.io/Minesweeper/)**  #️⃣ **[Repository](https://github.com/PSHacks/Minesweeper)**
   Classic Windows Minesweeper rebuilt with HTML/CSS/JS. Includes difficulty settings, timer, flags, and win/lose logic.
 
-- 🌿 **[Rust Genetics Calculator](https://github.com/PSHacks/rustGenetics)**  
+- 🌿 **[Rust Genetics Calculator](https://pshacks.github.io/rustGenetics/)** #️⃣ **[Repository](https://github.com/PSHacks/rustGenetics)**  
   Simple tool that calculates plant gene combinations in Rust for optimal crossbreeding.
 
 ---
