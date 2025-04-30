@@ -12,6 +12,9 @@
 - 🌿 **[Rust Genetics Calculator](https://pshacks.github.io/rustGenetics/)** #️⃣ **[Repository](https://github.com/PSHacks/rustGenetics)**  
   Simple tool that calculates plant gene combinations in Rust for optimal crossbreeding.
 
+- 🧪 **[Schedule 1 Mixer](https://pshacks.github.io/ScheduleMixer/)** #️⃣ **[Repository](https://github.com/PSHacks/ScheduleMixer)**  
+  This tool helps you create and analyze drug mixes in a popular game **Schedule 1**🎮.
+
 ---
 
 ## 🧰 Tech Stack
