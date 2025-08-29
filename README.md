@@ -10,10 +10,13 @@
   Classic Windows Minesweeper rebuilt with HTML/CSS/JS. Includes difficulty settings, timer, flags, and win/lose logic.
 
 - 🌿 **[Rust Genetics Calculator](https://pshacks.github.io/rustGenetics/)** #️⃣ **[Repository](https://github.com/PSHacks/rustGenetics)**  
-  Simple tool that calculates plant gene combinations in Rust for optimal crossbreeding.
+  Simple tool that calculates plant gene combinations in **Rust** for optimal crossbreeding.
 
 - 🧪 **[Schedule 1 Mixer](https://pshacks.github.io/ScheduleMixer/)** #️⃣ **[Repository](https://github.com/PSHacks/ScheduleMixer)**  
   This tool helps you create and analyze drug mixes in a popular game **Schedule 1**🎮.
+
+- #️⃣ **[Words of Wonders Telegram Bot](https://github.com/PSHacks/Words-Of-Wonders-Telegram-Bot)**  
+ Simple Telegram bot for game named **Words of Wonders**🎮.
 
 ---
 
