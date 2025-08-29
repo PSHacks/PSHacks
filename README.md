@@ -37,7 +37,7 @@
 
 - 🧠 Reverse engineering & custom logic systems  
 - 🎯 Full-stack UI/UX and functional tools  
-- 🧬 Game utility creators (yes, even cheats)  
+- 🧬 Game utility creator (yes, even cheats)  
 - 🎨 Design-focused apps that are more than just working — they *feel* right
 
 ---
